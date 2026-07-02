@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,14 +16,6 @@
     --muted:#64748b;
     --border:#e2e8f0;
 }
-
-.header{
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-    padding:15px 0;
-}
-
 body{
     margin:0;
     font-family:Inter;
